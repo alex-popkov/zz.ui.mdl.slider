@@ -1,6 +1,6 @@
 {
 	"name": "zz.ui.mdl.slider",
-	"version": "20160421.0.0",
+	"version": "20160427.0.1",
 	"description": "module zz.ui.mdl.slider for zz project",
 	"author": {
 		"name": "Popkov Aleksander",
@@ -17,6 +17,10 @@
 	},
 	"dependencies": {
 
-	    "imazzine-developer-kit": ""
+	    "imazzine-developer-kit": "",
+		"zz.ui.mdl": "",
+		"zz.ui.mdl.ripple": "",
+		"zz.i18n": "",
+		"zz.environment": ""
 	}
 }

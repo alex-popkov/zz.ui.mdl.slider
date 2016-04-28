@@ -1,6 +1,6 @@
 {
 	"name": "zz.ui.mdl.slider",
-	"version": "20160427.0.2",
+	"version": "20160428.0.0",
 	"description": "module zz.ui.mdl.slider for zz project",
 	"author": {
 		"name": "Popkov Aleksander",
@@ -21,6 +21,7 @@
 		"zz.ui.mdl": "",
 		"zz.ui.mdl.ripple": "",
 		"zz.i18n": "",
-		"zz.environment": ""
+		"zz.environment": "",
+		"zz.tests": ""
 	}
 }
